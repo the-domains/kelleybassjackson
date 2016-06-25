@@ -1,29 +1,41 @@
-name: Kelley Bass Jackson
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.34690027008764446
 title: Professional
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2845712723210454
+  brandStrength: 0.8036449872888625
+  lightness: 0.9125528016593307
+  brandColors:
+    - '#FFF3EA'
+    - '#222023'
+    - '#C2947C'
+    - '#584F46'
+    - '#DAD0C7'
+  rhythmicContrast: 0.04047987167723477
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Kelley Bass Jackson
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#1d2017'
-    - '#848d8a'
-    - '#b5c0bc'
-    - '#5a6360'
-    - '#e3878a'
-  brandStrength: 0.8036449872888625
-  lightness: 0.9125528016593307
-  saturation: 0.2845712723210454
-  rhythmicContrast: 0.04047987167723477
-purpose: []
+typography_spectrum: 0.4452202
+layout_spectrum: 1
