@@ -23,7 +23,7 @@ analytics:
 author:
   name: Kelley Jackson
   email: kelleybassjackson@gmail.com
-name: Kelley Bass Jackson
+name: Story Artist
 cta:
   bucket: null
   version: null
@@ -41,6 +41,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Story Artist
+title: Kelley Bass Jackson
 description: Multimedia Content Producer
 purpose: []
