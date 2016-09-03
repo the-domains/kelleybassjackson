@@ -11,14 +11,18 @@ color:
     - '#DAD0C7'
   rhythmicContrast: 0.04047987167723477
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca19141-5a6b-4e25-9e07-13f231fdc3e4.jpg
   type: null
-  appId: null
+  appId: Facebook.com/kelleyjackson
 layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Kelley Jackson
+  email: kelleybassjackson@gmail.com
 name: Kelley Bass Jackson
 cta:
   bucket: null
@@ -37,6 +41,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Multimedia Content Producer
+title: Story Artist
 description: I am a story artist.
 purpose: []
